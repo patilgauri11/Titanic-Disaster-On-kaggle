@@ -1,2 +1,3 @@
 # Titanic-Disaster-on-Kaggle
-In This used python for prediction tiitanic dataset
+In This project I have used python for prediction tiitanic dataset. 
+
